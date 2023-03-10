@@ -25,9 +25,6 @@ Records
 Contributing
 - Contributions are always welcome! If you find any bugs or want to suggest new features, please open an issue on the GitHub repository.
 
-License
-- This project is licensed under the MIT License.
-
 Acknowledgments
 - Line Renderer
 - Basic Unity Knowledge
