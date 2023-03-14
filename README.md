@@ -22,6 +22,7 @@ Installation
   3. Play the game! The first player to get five stones in a row wins.
 
 Records
+
 ![gomoku](https://user-images.githubusercontent.com/99873058/224222809-234bd745-aa38-4e4b-b55b-6fc23043e6de.gif)
 
 Contributing
