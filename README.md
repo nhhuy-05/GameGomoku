@@ -7,7 +7,7 @@ Description
 Features
 - Two-player game mode
 - Simple and intuitive user interface
-- Flexible board size (default is 15x15)
+- Flexible board size (default is 16x10)
 - Randomized starting player
 Getting Started
 - Prerequisites: Unity 2D IDE
